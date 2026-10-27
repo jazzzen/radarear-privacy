@@ -1,7 +1,7 @@
 # Support – RadarEar
 
 **Entwickler / Developer:** Johannes Zengel  
-**Kontakt / Contact:** zengeljohannes@gmail.com
+**Kontakt / Contact:** vibe.cround@gmail.com
 
 ---
 
@@ -9,7 +9,7 @@
 
 ### Probleme melden
 
-Bei Problemen oder Fragen schreibe bitte eine E-Mail an: **zengeljohannes@gmail.com**
+Bei Problemen oder Fragen schreibe bitte eine E-Mail an: **vibe.cround@gmail.com**
 
 ### Häufige Probleme
 
@@ -31,7 +31,7 @@ Garmin Varia RTL515, RTL516, RCT515. iOS 18.0 oder neuer erforderlich.
 
 ### Report an issue
 
-For issues or questions, please send an email to: **zengeljohannes@gmail.com**
+For issues or questions, please send an email to: **vibe.cround@gmail.com**
 
 ### Common issues
 
